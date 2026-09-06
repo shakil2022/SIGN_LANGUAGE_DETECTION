@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/Sign_language_data/Sign_language_data/test"
+		},
+		{
+			"path": "../../../Downloads/Sign_language_data/Sign_language_data/train"
+		}
+	],
+	"settings": {}
+}
